@@ -1,8 +1,11 @@
 # Statistical Theory Project For Final Exam 
 # Project 2.1 — Gaussian CI: Comparison of Level and Observed Coverage
 
-> Statistical Theory course project (Prof. S. Leorato) — Monte Carlo
-> simulation study of the confidence interval for the mean μ of a
+**By:** Doan Duy My Phuong
+
+**Instructor:** Prof. Samantha Leorato
+
+> Simulation study of the confidence interval for the mean μ of a
 > Gaussian population, comparing σ² known vs. σ² unknown.
 
 ## Table of contents
