@@ -55,7 +55,7 @@ observed coverage"**:
 | 2 | Theoretical CIs | Z-based and t-based formulas, incl. S² |
 | 3 | Theory: "exact CI" | Why coverage is exact at *every* n, not just asymptotically |
 | 4 | Simulation function | `simulate_coverage()`, M = 10,000 by default |
-| 5 | Varying n | Fixed μ = 5, σ = 2; n ∈ {3, 5, 10, 20, 30, 50, 100} |
+| 5a | Varying n | Fixed μ = 5, σ = 2; n ∈ {3, 5, 10, 20, 30, 50, 100} |
 | 5b | Varying μ, σ | Fixed n = 20; several (μ, σ) combinations |
 | 6 | Discussion | Coverage vs. width trade-off |
 
